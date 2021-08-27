@@ -1,0 +1,9 @@
+misc/
+node_modules/
+__pycache__/
+target/
+
+.env
+package-lock.json
+Cargo.lock
+*.o
